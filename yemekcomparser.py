@@ -39,12 +39,15 @@ for webpage in webpagelist:
     vlparsed1 = imageline.split(" ",1)
     vl1 = vlparsed1[0]
     imagelink = vl1.replace('"','')
-    #print(imagelink)
-
-
-
     title = soup.find("h1", {"class" : "titleSecondPiece"}).text
-    #print(title)
+
+
+    prep = []
+    prepinfo = soup.find("div", {"class" : "topInfo"})
+    for xd in   prepinfo.find_all("div", {"class" : "prepTime"}):
+        prep.append(xd.find("p").text)
+
+
 
     ingridients = []
     ingridientslist= []
@@ -62,60 +65,33 @@ for webpage in webpagelist:
         ingridients.append(itemqty)
         ingridients.append(itemname)
         ingridientslist.append(itemname)
-        #print(str(tarifler.text.encode('utf-8').decode("cp1252")))
-
-
-    #print(ingridients)
+        
 
 
     recipe = []
     for tarifler in soup.find("ol", {"class" : "recipeList"}).find_all("li"):
         itemqty = ""
-    # print(tarifler.text.encode('utf-8').decode("cp1252"))
         for spans in tarifler.find_all("p"):
-        # print(str(spans.text.encode('utf-8').decode("cp1252")))
-            
             itemqty =str(spans.text)
-            
-    
         item = itemqty 
         recipe.append(item)
-        #print(str(tarifler.text.encode('utf-8').decode("cp1252")))
-
     #print(recipe)
-
-
-
     #print(ingridientslist)
-
-    
-
 
     steps = { "recipe" : recipe
     }
 
-    translationTable = str.maketrans("ğĞıİöÖüÜşŞçÇ", "gGiIoOuUsScC")
 
 
 
-
-    recipestr = str(recipe)
-    choices = {"İ":"I", "ş" : "s", "Ş":"s" ,"ğ": "g" , "Ğ":"g"}
-
-    #print(recipestr)
-    ingstr = str(ingridients)
-    ingstr = ingstr.translate(translationTable)
-    inglist = str(ingridientslist)
-    inglist = inglist.translate(translationTable)
-
-
-
-
-
-    data =  { 'Name': title,
-            'Recipe': recipe,
+    data =  { 
+            'Name': title,
+            'RecipeDetails': recipe,
             'Ingridients': ingridients,
             'IngridientNames': ingridientslist,
+            'Portions' : prep[0],
+            'Prep Time' : prep[1],
+            'Cooking Time' : prep[2],
             'image':imagelink
             } 
 
@@ -126,25 +102,3 @@ for webpage in webpagelist:
     result = firebase.post('/Recipe/',data)
     print(result)
 
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-with open('data.json', 'w',encoding="utf-8") as outfile:
-    json.dump(data, outfile, ensure_ascii=False,indent=4,)
-
-for link in soup.find("div", {"class" : "parts ingredients"}):
-    
-    anan = str(link.text.encode('utf-8').decode("cp1252"))
-    link.find("")
-    print(anan) 
-    """
