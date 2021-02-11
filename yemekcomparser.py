@@ -6,10 +6,10 @@ import urllib.request
 import re
 from urllib.request import Request, urlopen
 from firebase import firebase
-import json
+
 from firebase.firebase import FirebaseApplication
 from firebase.firebase import FirebaseAuthentication
-
+import json
 webpagelist = []
 
 firebase = firebase.FirebaseApplication('https://ne-yesek-ebf2f-default-rtdb.europe-west1.firebasedatabase.app/', None)
@@ -32,13 +32,20 @@ for webpage in webpagelist:
     print(soup.original_encoding)
 
 
+    breadcrumb = soup.find("div", {"class" : "breadcrumbContainer"}).find("div" ,{"class" : "breadcrumbsCont"}).text
+    print(breadcrumb)
+
     image = soup.find("div", {"class" : "MainImage printHidden"}).find("img")
+    print(image)
+    
     xd1 = str(image)
     lol1 = xd1.split("src=")
     imageline = lol1[1]
     vlparsed1 = imageline.split(" ",1)
     vl1 = vlparsed1[0]
     imagelink = vl1.replace('"','')
+
+
     title = soup.find("h1", {"class" : "titleSecondPiece"}).text
 
 
@@ -78,27 +85,53 @@ for webpage in webpagelist:
     #print(recipe)
     #print(ingridientslist)
 
-    steps = { "recipe" : recipe
-    }
+    
+    jsonx = soup.find_all('script', type='application/ld+json')
+    workcount =0
+    print(len(jsonx))
+    print(jsonx[0])
+    x = str(jsonx[0])
+    x = x.split('<script data-react-helmet="true" type="application/ld+json">')
+    x = x[1]
+    x = x.split('</script>')
+    x = x[0]
+    print(x)
+    
+ 
+    strx = "{" + x+ "}"
+  
+        
+    print(strx)
+        
+    print("lol")
+    lol = json.loads(x) #a dictionary!
 
-
+    maincategory = lol["recipeCategory"]
+    Keywords = lol["keywords"]
+    Cuisine = lol["recipeCuisine"]
+    ShortDescription = lol["description"]
 
 
     data =  { 
+            
             'Name': title,
             'RecipeDetails': recipe,
             'Ingridients': ingridients,
             'IngridientNames': ingridientslist,
-            'Portions' : prep[0],
-            'Prep Time' : prep[1],
-            'Cooking Time' : prep[2],
-            'image':imagelink
+            'Prepdetails' : prep,
+            'CategoryBread': breadcrumb,
+            'MainCategory' : maincategory,
+            'Keywords' : Keywords.split(","),
+            'ShortDescription' : ShortDescription,
+            'Cuisine' : Cuisine,
+            'Image':imagelink
             } 
 
     print(title)
     #text_file = open("RecipeLinks-From-Yemekcom.txt", "w", encoding='utf-8')
    # text_file.write(str(data))
     #text_file.close()
-    result = firebase.post('/Recipe/',data)
+    result = firebase.post('/Recipe/'+maincategory+"/",data)
+    #result = firebase.post('/Recipe/',data)
     print(result)
 
