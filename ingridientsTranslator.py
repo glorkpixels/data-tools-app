@@ -1,16 +1,6 @@
 import googletrans
 from googletrans import Translator
-from os import link
-from bs4 import BeautifulSoup
-import requests
-import urllib.request
-import re
-from urllib.request import Request, urlopen
-from firebase import firebase
 
-from firebase.firebase import FirebaseApplication
-from firebase.firebase import FirebaseAuthentication
-import json
 '''
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -33,19 +23,33 @@ with open('ingnames.txt') as f:
         ingridientList.append(line)
         
 for name in ingridientList:
-	result = translator.translate(name)
-	"""
-	print(result.src)
-	print(result.dest)
-	print(result.origin)
-	"""
-	print(name + "Turkce")
-	print(result.text + " English")
-	#print(result.pronunciation)
-	engName = result.text
-	trName = name
-	parsedName= engName.replace(" ", "+")
-	print(parsedName )
+    result = translator.translate(name)
+    """
+    print(result.src)
+    print(result.dest)
+    print(result.origin)
+    """
+    #print(name + "Turkce")
+    #print(result.text + " English")
+    #print(result.pronunciation)
+    engName = result.text
+    trName = name
+    parsedName= engName.replace(" ", "+")
+    #print(parsedName )
+    f = open('ingnamesenglish.txt', 'a')
+    if(engName != ""):
+        if engName == "its":	
+                f.write("water" +"\n")
+        elif engName == "a":
+             f.write("flour" +"\n")
+        elif engName == "mince" and trName == "kıyma":
+             f.write("ground beef" +"\n")
+        else:
+            if engName != "":
+                 f.write(engName +"\n")
+        
+        
+    f.close()
 
 
 '''

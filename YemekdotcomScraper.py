@@ -11,6 +11,8 @@ from firebase.firebase import FirebaseApplication
 from firebase.firebase import FirebaseAuthentication
 import json
 webpagelist = []
+ingamounts = []
+ingnames = []
 
 firebase = firebase.FirebaseApplication('https://ne-yesek-ebf2f-default-rtdb.europe-west1.firebasedatabase.app/', None)
 
@@ -49,15 +51,16 @@ for webpage in webpagelist:
     title = soup.find("h1", {"class" : "titleSecondPiece"}).text
 
 
-    prep = []
+    prep = ""
     prepinfo = soup.find("div", {"class" : "topInfo"})
     for xd in   prepinfo.find_all("div", {"class" : "prepTime"}):
-        prep.append(xd.find("p").text)
+        prep += xd.find("p").text + ";"
 
 
+    ingridients = ""
+    ingridientslist= ""
 
-    ingridients = []
-    ingridientslist= []
+
     for tarifler in soup.find_all("div", {"class" : "recipeIngredient"}):
         itemqty = ""
         itemname = ""
@@ -69,19 +72,22 @@ for webpage in webpagelist:
         # print(str(spans.text.encode('utf-8').decode("cp1252")))
             itemname =str(spans.text)
 
-        ingridients.append(itemqty)
-        ingridients.append(itemname)
-        ingridientslist.append(itemname)
+        ingridients +=  "● " +(itemqty +" "+itemname+"\n")
+        ingridientslist += (itemname +";")
+        ingamounts.append(itemqty)
+        ingnames.append(itemname)
         
+  
 
-
-    recipe = []
+    recipe = ""
+    point =1
     for tarifler in soup.find("ol", {"class" : "recipeList"}).find_all("li"):
         itemqty = ""
         for spans in tarifler.find_all("p"):
             itemqty =str(spans.text)
         item = itemqty 
-        recipe.append(item)
+        recipe += str(point) + ".) " + item + '\n'
+        point +=1
     #print(recipe)
     #print(ingridientslist)
 
@@ -118,10 +124,10 @@ for webpage in webpagelist:
             'RecipeDetails': recipe,
             'Ingridients': ingridients,
             'IngridientNames': ingridientslist,
-            'Prepdetails' : prep,
+            'PrepDetails' : prep,
             'CategoryBread': breadcrumb,
             'MainCategory' : maincategory,
-            'Keywords' : Keywords.split(","),
+            'Keywords' : Keywords,
             'ShortDescription' : ShortDescription,
             'Cuisine' : Cuisine,
             'Image':imagelink
@@ -131,7 +137,29 @@ for webpage in webpagelist:
     #text_file = open("RecipeLinks-From-Yemekcom.txt", "w", encoding='utf-8')
    # text_file.write(str(data))
     #text_file.close()
-    result = firebase.post('/Recipe/'+maincategory+"/",data)
-    #result = firebase.post('/Recipe/',data)
+    #result = firebase.post('/Recipe/'+maincategory+"/",data)
+    result = firebase.post('/Recipe/',data)
     print(result)
+
+"""with open('ingquantity.txt', 'a', "utf-8") as filehandle:
+    filehandle.writelines("%s\n" % amounth for amounth in ingamounts)"""
+    
+f = open('ingquantity.txt', 'a')
+for i in ingamounts:
+      if(i != ""):
+            f.write(i +"\n")
+
+f.close()
+
+
+f = open('ingnames.txt', 'a')
+for i in ingnames:
+    if(i != ""):
+        f.write(i +"\n")
+    
+f.close()
+  
+    
+"""with open('ingnames.txt', 'a', "utf-8") as filehandle:
+    filehandle.writelines("%s\n" % name for name in ingnames)"""
 
