@@ -13,8 +13,6 @@ options.add_argument('--ignore-certificate-errors')
 options.add_argument('--incognito')
 options.add_argument('--headless')
 '''
-
-webSiteUrl = "https://www.nutritionvalue.org"
 translator = Translator()
 
 ingridientList = []
@@ -34,7 +32,7 @@ for name in ingridientList:
     #print(result.pronunciation)
     engName = result.text
     trName = name
-    parsedName= engName.replace(" ", "+")
+    #parsedName= engName.replace(" ", "+")
     #print(parsedName )
     f = open('ingnamesenglish.txt', 'a')
     if(engName != ""):
