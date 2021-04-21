@@ -9,14 +9,15 @@ from firebase import firebase
 from firebase.firebase import FirebaseApplication
 from firebase.firebase import FirebaseAuthentication
 import json
-
+import unicodedata
 
 
 
 webSiteUrlSearch = "https://www.nutritionvalue.org/search.php?food_query="
 webSiteUrl = "https://www.nutritionvalue.org"
 firebase = firebase.FirebaseApplication('https://ne-yesek-ebf2f-default-rtdb.europe-west1.firebasedatabase.app/', None)
-
+def hasNumbers(inputString):
+    return any( 48 <= ord(char) <= 57 for char in inputString)
 
 engIngList = []
 
@@ -65,8 +66,110 @@ for index, ingridient in enumerate(engIngList):
 
     #html_page = urllib.request.urlopen(webpagelist[0])
     soup = BeautifulSoup(webpagedetail, 'html.parser')
-    print(soup)
+    table = soup.find("table", {"class" : "center zero"}).find_all("td" , {"class" : "left"})
+    table2 = soup.find("table", {"class" : "center zero"}).find_all("tr")
     
     
     
+    detailList = []
+    for i in table2:
+        xd = ""
+        nonBreakSpace = u'\xa0'
+        col1 = i.find("td" , {"class" : "left"})
         
+        col2 = i.find("td" , {"class" : "right"})
+        
+        if col1 != None:
+            if col2 != None:
+                if (col1.text== "Amount Per Serving"):
+                    xd = "Calorie" + "*****" + col2.text
+                else:
+                     xd = col1.text + "*****" + col2.text
+                
+        lol = xd.replace('\xa0', ' ')
+        lol.strip()
+        f = open('deneme.txt', 'a')
+        detailList.append(lol)
+        if(lol != ""):
+            f.write(lol +"\n")
+        #print(lol)
+        f.close()
+        
+    images = soup.find_all("img")
+    imagesx= []
+    for x in range(len(images)):
+        if images[x]["src"] != "/images/question2.png":
+            imagesx.append(images[x]["src"] )
+            
+            
+    if len(imagesx) ==4:
+        lol = imagesx[0]
+        imagesx[0]= webSiteUrl + "/"+ lol
+    
+    data = ""
+    while("" in detailList) :
+        detailList.remove("")
+    for x in detailList:
+        i= x.split("*****")
+        #print(i)
+        
+        if i[0] == "":
+            i.pop(0)
+            i.pop(1)
+            i.pop(2)
+            i.pop(3)
+            
+
+        left = i[0]
+        right = i[1]
+        #print(left)
+        #print(right)
+        if left == "Serving Size" or left == "Calorie":
+            if left == "Calorie":
+                data +=left + ":" + right
+            else :
+                data +=left + ":" + right + ","
+            
+        else:
+            SplitLeft = left.split(" ")
+            pointer = 0
+            for i in range(len(SplitLeft)):
+                if hasNumbers(SplitLeft[i]):
+                    #print(SplitLeft[i])
+                    pointer = i
+                    
+            Temp = ""
+           # print(pointer)
+            #print("here")
+            for i in range(pointer):
+                Temp += SplitLeft[i] + " "
+            
+            data +=  ","+Temp.lstrip()+ ":" + SplitLeft[pointer] + ","
+            if right == "":
+                data += "Daily "+ Temp.lstrip() +":" + "NaN" 
+            else:
+                data += "Daily "+ Temp.lstrip() +":" + right 
+    
+    """   
+    if len(imagesx) ==4:
+        data+='"Image Header:"' + imagesx[0] + ","
+        data+='"Image data1:"' + imagesx[1] + ","
+        data+='"Image data2:"' + imagesx[2] + ","
+    
+    if len(imagesx) ==3:
+        data+='"Image data1:"' + imagesx[0] + ","
+        data+='"Image data2:"' + imagesx[1] + ","
+    """
+    print(data)
+    
+    
+    xd = json.loads('') 
+    datax =  {
+        data
+    }
+    
+    result = firebase.post('/Ingridients/',xd)
+    print(result)
+
+    
+    
