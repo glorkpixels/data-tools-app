@@ -5,6 +5,7 @@ import urllib.request
 import re
 from urllib.request import Request, urlopen
 from firebase import firebase
+import time
 
 from firebase.firebase import FirebaseApplication
 from firebase.firebase import FirebaseAuthentication
@@ -35,7 +36,7 @@ with open('ingnamesenglish.txt') as f:
 
 for index, ingridient in enumerate(engIngList):
     try:
-       
+        
     
         search = ingridient.replace(" ", "+")
         
@@ -58,10 +59,8 @@ for index, ingridient in enumerate(engIngList):
         print(link)
         name = str(name).split(",")
         print(name[0])
-        translator = Translator()
-        result = translator.translate(name[0], dest='tr')
         EngName = name
-        TrName = result.text
+        TrName = trIngList[index]
         LinkToGo = webSiteUrl + link
         print(LinkToGo)
         req2 = Request(LinkToGo, headers={'User-Agent': 'Mozilla/5.0'},)
@@ -189,6 +188,7 @@ for index, ingridient in enumerate(engIngList):
         
         result = firebase.post('/Ingridients/',res)
         print(result)
+        time.sleep(2)
     except Exception as e:
         print(e)
         pass

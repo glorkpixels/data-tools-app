@@ -2013,3 +2013,1503 @@ Vitamin D 0.00mcg*****0 %
 Calcium 11.00mg*****1 %
 Iron 1.49mg*****8 %
 Potassium 428mg*****9 %
+Serving Size*****100 g
+Calorie*****247
+Total Fat 19g*****24 %
+   Saturated Fat 7.3g*****36 %
+Cholesterol 71mg*****24 %
+Sodium 66mg*****3 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 17g*****34 %
+Vitamin D 0.10mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 1.97mg*****11 %
+Potassium 274mg*****6 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****247
+Total Fat 19g*****24 %
+   Saturated Fat 7.3g*****36 %
+Cholesterol 71mg*****24 %
+Sodium 66mg*****3 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 17g*****34 %
+Vitamin D 0.10mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 1.97mg*****11 %
+Potassium 274mg*****6 %
+Serving Size*****100 g
+Calorie*****260
+Total Fat 1.4g*****2 %
+Sodium 404mg*****18 %
+Total Carbohydrate 53g*****19 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 2.9g*****
+Protein 9.6g*****19 %
+Vitamin D mcg*****N/A
+Calcium 192.00mg*****15 %
+Iron 3.46mg*****19 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %
+Serving Size*****100 g
+Calorie*****375
+Total Fat 22g*****28 %
+   Saturated Fat 1.5g*****8 %
+Sodium 168mg*****7 %
+Total Carbohydrate 44g*****16 %
+   Dietary Fiber 11g*****39 %
+   Sugar 2.3g*****
+Protein 18g*****36 %
+Vitamin D 0.00mcg*****0 %
+Calcium 931.00mg*****72 %
+Iron 66.36mg*****369 %
+Potassium 1788mg*****38 %
+Serving Size*****100 g
+Calorie*****22
+Total Fat 0.2g*****0 %
+   Saturated Fat 0.1g*****0 %
+Sodium 3mg*****0 %
+Total Carbohydrate 5.1g*****2 %
+   Dietary Fiber 1.8g*****6 %
+   Sugar 3g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 9.00mg*****1 %
+Iron 0.37mg*****2 %
+Potassium 188mg*****4 %
+Serving Size*****100 g
+Calorie*****367
+Total Fat 5g*****6 %
+Sodium 1400mg*****61 %
+Total Carbohydrate 70g*****25 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 6.7g*****
+Protein 13g*****26 %
+Vitamin D mcg*****N/A
+Calcium 200.00mg*****15 %
+Iron 3.60mg*****20 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****867
+Total Fat 93g*****119 %
+   Saturated Fat 87g*****435 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****100
+Total Fat 0g*****0 %
+Sodium 33mg*****1 %
+Total Carbohydrate 23g*****8 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 13g*****
+Protein 3.3g*****7 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****38
+Total Fat 0.2g*****0 %
+Sodium 202mg*****9 %
+Total Carbohydrate 9g*****3 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 4.8g*****
+Protein 1.7g*****3 %
+Vitamin D 0.00mcg*****0 %
+Calcium 18.00mg*****1 %
+Iron 1.78mg*****10 %
+Potassium 439mg*****9 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****54
+Total Fat 0.6g*****1 %
+   Saturated Fat 0.3g*****2 %
+Sodium 72mg*****3 %
+Total Carbohydrate 11g*****4 %
+   Dietary Fiber 0.5g*****2 %
+   Sugar 8.9g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 21.00mg*****2 %
+Iron 0.16mg*****1 %
+Potassium 97mg*****2 %
+Serving Size*****100 g
+Calorie*****22
+Total Fat 0.2g*****0 %
+   Saturated Fat 0.1g*****0 %
+Sodium 3mg*****0 %
+Total Carbohydrate 5.1g*****2 %
+   Dietary Fiber 1.8g*****6 %
+   Sugar 3g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 9.00mg*****1 %
+Iron 0.37mg*****2 %
+Potassium 188mg*****4 %
+Serving Size*****100 g
+Calorie*****58
+Total Fat 0.1g*****0 %
+Sodium 10mg*****0 %
+Total Carbohydrate 12g*****4 %
+   Dietary Fiber 2.5g*****9 %
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 30.00mg*****2 %
+Iron 3.24mg*****18 %
+Potassium 413mg*****9 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 14g*****70 %
+Sodium 2mg*****0 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 1.00mg*****0 %
+Iron 0.56mg*****3 %
+Potassium 1mg*****0 %
+Serving Size*****100 g
+Calorie*****487
+Total Fat 21g*****27 %
+   Saturated Fat 4.2g*****21 %
+Sodium 8mg*****0 %
+Total Carbohydrate 68g*****25 %
+   Dietary Fiber 6.1g*****22 %
+   Sugar 0.2g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 21.00mg*****2 %
+Iron 1.35mg*****8 %
+Potassium 1744mg*****37 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %
+Serving Size*****100 g
+Calorie*****365
+Total Fat 3.9g*****5 %
+Sodium 1mg*****0 %
+Total Carbohydrate 76g*****28 %
+Protein 7.2g*****14 %
+Vitamin D mcg*****N/A
+Calcium 10.00mg*****1 %
+Iron 1.50mg*****8 %
+Potassium 265mg*****6 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****51
+Total Fat 2g*****3 %
+   Saturated Fat 1.2g*****6 %
+Cholesterol 8mg*****3 %
+Sodium 39mg*****2 %
+Total Carbohydrate 4.9g*****2 %
+   Dietary Fiber 0g*****0 %
+   Sugar 4.9g*****
+Protein 3.3g*****7 %
+Vitamin D 1.10mcg*****6 %
+Calcium 126.00mg*****10 %
+Iron 0.00mg*****0 %
+Potassium 157mg*****3 %
+Serving Size*****100 g
+Calorie*****393
+Total Fat 32g*****41 %
+   Saturated Fat 18g*****90 %
+Cholesterol 107mg*****36 %
+Sodium 643mg*****28 %
+Total Carbohydrate 3.6g*****1 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 25g*****50 %
+Vitamin D mcg*****N/A
+Calcium 714.00mg*****55 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****274
+Total Fat 12g*****15 %
+   Saturated Fat 5.3g*****26 %
+Cholesterol 32mg*****11 %
+Sodium 617mg*****27 %
+Total Carbohydrate 27g*****10 %
+   Dietary Fiber 1.8g*****6 %
+   Sugar 2.9g*****
+Protein 14g*****28 %
+Vitamin D 0.10mcg*****0 %
+Calcium 153.00mg*****12 %
+Iron 2.28mg*****13 %
+Potassium 202mg*****4 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****392
+Total Fat 4.3g*****6 %
+   Saturated Fat 0.9g*****4 %
+Sodium 71mg*****3 %
+Total Carbohydrate 81g*****29 %
+   Dietary Fiber 4.2g*****15 %
+   Sugar 0.9g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 11.00mg*****1 %
+Iron 1.49mg*****8 %
+Potassium 428mg*****9 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %
+Serving Size*****100 g
+Calorie*****375
+Total Fat 22g*****28 %
+   Saturated Fat 1.5g*****8 %
+Sodium 168mg*****7 %
+Total Carbohydrate 44g*****16 %
+   Dietary Fiber 11g*****39 %
+   Sugar 2.3g*****
+Protein 18g*****36 %
+Vitamin D 0.00mcg*****0 %
+Calcium 931.00mg*****72 %
+Iron 66.36mg*****369 %
+Potassium 1788mg*****38 %
+Serving Size*****100 g
+Calorie*****365
+Total Fat 3.9g*****5 %
+Sodium 1mg*****0 %
+Total Carbohydrate 76g*****28 %
+Protein 7.2g*****14 %
+Vitamin D mcg*****N/A
+Calcium 10.00mg*****1 %
+Iron 1.50mg*****8 %
+Potassium 265mg*****6 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 10g*****50 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium 0mg*****0 %
+Serving Size*****100 g
+Calorie*****247
+Total Fat 19g*****24 %
+   Saturated Fat 7.3g*****36 %
+Cholesterol 71mg*****24 %
+Sodium 66mg*****3 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 17g*****34 %
+Vitamin D 0.10mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 1.97mg*****11 %
+Potassium 274mg*****6 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %
+Serving Size*****100 g
+Calorie*****375
+Total Fat 22g*****28 %
+   Saturated Fat 1.5g*****8 %
+Sodium 168mg*****7 %
+Total Carbohydrate 44g*****16 %
+   Dietary Fiber 11g*****39 %
+   Sugar 2.3g*****
+Protein 18g*****36 %
+Vitamin D 0.00mcg*****0 %
+Calcium 931.00mg*****72 %
+Iron 66.36mg*****369 %
+Potassium 1788mg*****38 %
+Serving Size*****100 g
+Calorie*****34
+Total Fat 0.4g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 6mg*****0 %
+Total Carbohydrate 7.7g*****3 %
+   Dietary Fiber 2.2g*****8 %
+   Sugar 4.7g*****
+Protein 1.4g*****3 %
+Vitamin D 0.00mcg*****0 %
+Calcium 13.00mg*****1 %
+Iron 0.64mg*****4 %
+Potassium 285mg*****6 %
+Serving Size*****100 g
+Calorie*****395
+Total Fat 5.3g*****7 %
+   Saturated Fat 1.2g*****6 %
+Sodium 732mg*****32 %
+Total Carbohydrate 72g*****26 %
+   Dietary Fiber 4.5g*****16 %
+   Sugar 6.2g*****
+Protein 13g*****26 %
+Vitamin D 0.00mcg*****0 %
+Calcium 183.00mg*****14 %
+Iron 4.83mg*****27 %
+Potassium 196mg*****4 %
+Serving Size*****100 g
+Calorie*****867
+Total Fat 93g*****119 %
+   Saturated Fat 87g*****435 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****100
+Total Fat 0g*****0 %
+Sodium 33mg*****1 %
+Total Carbohydrate 23g*****8 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 13g*****
+Protein 3.3g*****7 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****38
+Total Fat 0.2g*****0 %
+Sodium 202mg*****9 %
+Total Carbohydrate 9g*****3 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 4.8g*****
+Protein 1.7g*****3 %
+Vitamin D 0.00mcg*****0 %
+Calcium 18.00mg*****1 %
+Iron 1.78mg*****10 %
+Potassium 439mg*****9 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****54
+Total Fat 0.6g*****1 %
+   Saturated Fat 0.3g*****2 %
+Sodium 72mg*****3 %
+Total Carbohydrate 11g*****4 %
+   Dietary Fiber 0.5g*****2 %
+   Sugar 8.9g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 21.00mg*****2 %
+Iron 0.16mg*****1 %
+Potassium 97mg*****2 %
+Serving Size*****100 g
+Calorie*****23
+Total Fat 0.4g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 79mg*****3 %
+Total Carbohydrate 3.6g*****1 %
+   Dietary Fiber 2.2g*****8 %
+   Sugar 0.4g*****
+Protein 2.9g*****6 %
+Vitamin D 0.00mcg*****0 %
+Calcium 99.00mg*****8 %
+Iron 2.71mg*****15 %
+Potassium 558mg*****12 %
+Serving Size*****100 g
+Calorie*****58
+Total Fat 0.1g*****0 %
+Sodium 10mg*****0 %
+Total Carbohydrate 12g*****4 %
+   Dietary Fiber 2.5g*****9 %
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 30.00mg*****2 %
+Iron 3.24mg*****18 %
+Potassium 413mg*****9 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 14g*****70 %
+Sodium 2mg*****0 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 1.00mg*****0 %
+Iron 0.56mg*****3 %
+Potassium 1mg*****0 %
+Serving Size*****100 g
+Calorie*****365
+Total Fat 3.9g*****5 %
+Sodium 1mg*****0 %
+Total Carbohydrate 76g*****28 %
+Protein 7.2g*****14 %
+Vitamin D mcg*****N/A
+Calcium 10.00mg*****1 %
+Iron 1.50mg*****8 %
+Potassium 265mg*****6 %
+Serving Size*****100 g
+Calorie*****51
+Total Fat 2g*****3 %
+   Saturated Fat 1.2g*****6 %
+Cholesterol 8mg*****3 %
+Sodium 39mg*****2 %
+Total Carbohydrate 4.9g*****2 %
+   Dietary Fiber 0g*****0 %
+   Sugar 4.9g*****
+Protein 3.3g*****7 %
+Vitamin D 1.10mcg*****6 %
+Calcium 126.00mg*****10 %
+Iron 0.00mg*****0 %
+Potassium 157mg*****3 %
+Serving Size*****100 g
+Calorie*****403
+Total Fat 33g*****42 %
+   Saturated Fat 19g*****95 %
+Cholesterol 99mg*****33 %
+Sodium 653mg*****28 %
+Total Carbohydrate 3.4g*****1 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.5g*****
+Protein 23g*****46 %
+Vitamin D 0.60mcg*****3 %
+Calcium 710.00mg*****55 %
+Iron 0.14mg*****1 %
+Potassium 76mg*****2 %
+Serving Size*****100 g
+Calorie*****289
+Total Fat 11g*****14 %
+   Saturated Fat 2.7g*****14 %
+Sodium 254mg*****11 %
+Total Carbohydrate 48g*****17 %
+   Dietary Fiber 2.6g*****9 %
+   Sugar 28g*****
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 22.00mg*****2 %
+Iron 1.49mg*****8 %
+Potassium 203mg*****4 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****392
+Total Fat 4.3g*****6 %
+   Saturated Fat 0.9g*****4 %
+Sodium 71mg*****3 %
+Total Carbohydrate 81g*****29 %
+   Dietary Fiber 4.2g*****15 %
+   Sugar 0.9g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 11.00mg*****1 %
+Iron 1.49mg*****8 %
+Potassium 428mg*****9 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 10g*****50 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium 0mg*****0 %
+Serving Size*****100 g
+Calorie*****350
+Total Fat 0g*****0 %
+Sodium 150mg*****7 %
+Total Carbohydrate 75g*****27 %
+   Dietary Fiber 5g*****18 %
+   Sugar 5g*****
+Protein 10g*****20 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0g*****0 %
+Sodium 134mg*****6 %
+Total Carbohydrate 8g*****3 %
+   Dietary Fiber 3g*****11 %
+   Sugar 5g*****
+Protein 1g*****2 %
+Vitamin D mcg*****N/A
+Calcium 20.00mg*****2 %
+Iron 0.72mg*****4 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****36
+Total Fat 0.8g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 56mg*****2 %
+Total Carbohydrate 6.3g*****2 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 0.9g*****
+Protein 3g*****6 %
+Vitamin D 0.00mcg*****0 %
+Calcium 138.00mg*****11 %
+Iron 6.20mg*****34 %
+Potassium 554mg*****12 %
+Serving Size*****100 g
+Calorie*****164
+Total Fat 2.6g*****3 %
+   Saturated Fat 0.3g*****2 %
+Sodium 243mg*****11 %
+Total Carbohydrate 27g*****10 %
+   Dietary Fiber 7.6g*****27 %
+   Sugar 4.8g*****
+Protein 8.9g*****18 %
+Vitamin D 0.00mcg*****0 %
+Calcium 49.00mg*****4 %
+Iron 2.89mg*****16 %
+Potassium 291mg*****6 %
+Serving Size*****100 g
+Calorie*****19
+Total Fat 0.2g*****0 %
+Sodium 113mg*****5 %
+Total Carbohydrate 3.1g*****1 %
+   Dietary Fiber 2.1g*****8 %
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 77.00mg*****6 %
+Iron 1.67mg*****9 %
+Potassium 312mg*****7 %
+Serving Size*****100 g
+Calorie*****299
+Total Fat 6g*****8 %
+   Saturated Fat 1.5g*****8 %
+Sodium 483mg*****21 %
+Total Carbohydrate 53g*****19 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 0.2g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 11.00mg*****1 %
+Iron 3.21mg*****18 %
+Potassium 74mg*****2 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****106
+Total Fat 6.2g*****8 %
+   Saturated Fat 4g*****20 %
+Cholesterol 22mg*****7 %
+Sodium 70mg*****3 %
+Total Carbohydrate 5.7g*****2 %
+   Dietary Fiber 0g*****0 %
+   Sugar 5.7g*****
+Protein 7.5g*****15 %
+Vitamin D mcg*****N/A
+Calcium 189.00mg*****15 %
+Iron 0.24mg*****1 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****100
+Total Fat 0g*****0 %
+Sodium 33mg*****1 %
+Total Carbohydrate 23g*****8 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 13g*****
+Protein 3.3g*****7 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****339
+Total Fat 2.5g*****3 %
+   Saturated Fat 0.5g*****2 %
+Sodium 2mg*****0 %
+Total Carbohydrate 71g*****26 %
+Protein 14g*****28 %
+Vitamin D 0.00mcg*****0 %
+Calcium 34.00mg*****3 %
+Iron 3.52mg*****20 %
+Potassium 431mg*****9 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****247
+Total Fat 19g*****24 %
+   Saturated Fat 7.3g*****36 %
+Cholesterol 71mg*****24 %
+Sodium 66mg*****3 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 17g*****34 %
+Vitamin D 0.10mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 1.97mg*****11 %
+Potassium 274mg*****6 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %
+Serving Size*****100 g
+Calorie*****375
+Total Fat 22g*****28 %
+   Saturated Fat 1.5g*****8 %
+Sodium 168mg*****7 %
+Total Carbohydrate 44g*****16 %
+   Dietary Fiber 11g*****39 %
+   Sugar 2.3g*****
+Protein 18g*****36 %
+Vitamin D 0.00mcg*****0 %
+Calcium 931.00mg*****72 %
+Iron 66.36mg*****369 %
+Potassium 1788mg*****38 %
+Serving Size*****100 g
+Calorie*****34
+Total Fat 0.4g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 6mg*****0 %
+Total Carbohydrate 7.7g*****3 %
+   Dietary Fiber 2.2g*****8 %
+   Sugar 4.7g*****
+Protein 1.4g*****3 %
+Vitamin D 0.00mcg*****0 %
+Calcium 13.00mg*****1 %
+Iron 0.64mg*****4 %
+Potassium 285mg*****6 %
+Serving Size*****100 g
+Calorie*****395
+Total Fat 5.3g*****7 %
+   Saturated Fat 1.2g*****6 %
+Sodium 732mg*****32 %
+Total Carbohydrate 72g*****26 %
+   Dietary Fiber 4.5g*****16 %
+   Sugar 6.2g*****
+Protein 13g*****26 %
+Vitamin D 0.00mcg*****0 %
+Calcium 183.00mg*****14 %
+Iron 4.83mg*****27 %
+Potassium 196mg*****4 %
+Serving Size*****100 g
+Calorie*****867
+Total Fat 93g*****119 %
+   Saturated Fat 87g*****435 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****100
+Total Fat 0g*****0 %
+Sodium 33mg*****1 %
+Total Carbohydrate 23g*****8 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 13g*****
+Protein 3.3g*****7 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****38
+Total Fat 0.2g*****0 %
+Sodium 202mg*****9 %
+Total Carbohydrate 9g*****3 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 4.8g*****
+Protein 1.7g*****3 %
+Vitamin D 0.00mcg*****0 %
+Calcium 18.00mg*****1 %
+Iron 1.78mg*****10 %
+Potassium 439mg*****9 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****54
+Total Fat 0.6g*****1 %
+   Saturated Fat 0.3g*****2 %
+Sodium 72mg*****3 %
+Total Carbohydrate 11g*****4 %
+   Dietary Fiber 0.5g*****2 %
+   Sugar 8.9g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 21.00mg*****2 %
+Iron 0.16mg*****1 %
+Potassium 97mg*****2 %
+Serving Size*****100 g
+Calorie*****23
+Total Fat 0.4g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 79mg*****3 %
+Total Carbohydrate 3.6g*****1 %
+   Dietary Fiber 2.2g*****8 %
+   Sugar 0.4g*****
+Protein 2.9g*****6 %
+Vitamin D 0.00mcg*****0 %
+Calcium 99.00mg*****8 %
+Iron 2.71mg*****15 %
+Potassium 558mg*****12 %
+Serving Size*****100 g
+Calorie*****58
+Total Fat 0.1g*****0 %
+Sodium 10mg*****0 %
+Total Carbohydrate 12g*****4 %
+   Dietary Fiber 2.5g*****9 %
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 30.00mg*****2 %
+Iron 3.24mg*****18 %
+Potassium 413mg*****9 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 14g*****70 %
+Sodium 2mg*****0 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 1.00mg*****0 %
+Iron 0.56mg*****3 %
+Potassium 1mg*****0 %
+Serving Size*****100 g
+Calorie*****365
+Total Fat 3.9g*****5 %
+Sodium 1mg*****0 %
+Total Carbohydrate 76g*****28 %
+Protein 7.2g*****14 %
+Vitamin D mcg*****N/A
+Calcium 10.00mg*****1 %
+Iron 1.50mg*****8 %
+Potassium 265mg*****6 %
+Serving Size*****100 g
+Calorie*****51
+Total Fat 2g*****3 %
+   Saturated Fat 1.2g*****6 %
+Cholesterol 8mg*****3 %
+Sodium 39mg*****2 %
+Total Carbohydrate 4.9g*****2 %
+   Dietary Fiber 0g*****0 %
+   Sugar 4.9g*****
+Protein 3.3g*****7 %
+Vitamin D 1.10mcg*****6 %
+Calcium 126.00mg*****10 %
+Iron 0.00mg*****0 %
+Potassium 157mg*****3 %
+Serving Size*****100 g
+Calorie*****403
+Total Fat 33g*****42 %
+   Saturated Fat 19g*****95 %
+Cholesterol 99mg*****33 %
+Sodium 653mg*****28 %
+Total Carbohydrate 3.4g*****1 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.5g*****
+Protein 23g*****46 %
+Vitamin D 0.60mcg*****3 %
+Calcium 710.00mg*****55 %
+Iron 0.14mg*****1 %
+Potassium 76mg*****2 %
+Serving Size*****100 g
+Calorie*****289
+Total Fat 11g*****14 %
+   Saturated Fat 2.7g*****14 %
+Sodium 254mg*****11 %
+Total Carbohydrate 48g*****17 %
+   Dietary Fiber 2.6g*****9 %
+   Sugar 28g*****
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 22.00mg*****2 %
+Iron 1.49mg*****8 %
+Potassium 203mg*****4 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****392
+Total Fat 4.3g*****6 %
+   Saturated Fat 0.9g*****4 %
+Sodium 71mg*****3 %
+Total Carbohydrate 81g*****29 %
+   Dietary Fiber 4.2g*****15 %
+   Sugar 0.9g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 11.00mg*****1 %
+Iron 1.49mg*****8 %
+Potassium 428mg*****9 %
+Serving Size*****100 g
+Calorie*****884
+Total Fat 100g*****128 %
+   Saturated Fat 10g*****50 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium 0mg*****0 %
+Serving Size*****100 g
+Calorie*****350
+Total Fat 0g*****0 %
+Sodium 150mg*****7 %
+Total Carbohydrate 75g*****27 %
+   Dietary Fiber 5g*****18 %
+   Sugar 5g*****
+Protein 10g*****20 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0g*****0 %
+Sodium 134mg*****6 %
+Total Carbohydrate 8g*****3 %
+   Dietary Fiber 3g*****11 %
+   Sugar 5g*****
+Protein 1g*****2 %
+Vitamin D mcg*****N/A
+Calcium 20.00mg*****2 %
+Iron 0.72mg*****4 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****36
+Total Fat 0.8g*****1 %
+   Saturated Fat 0.1g*****0 %
+Sodium 56mg*****2 %
+Total Carbohydrate 6.3g*****2 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 0.9g*****
+Protein 3g*****6 %
+Vitamin D 0.00mcg*****0 %
+Calcium 138.00mg*****11 %
+Iron 6.20mg*****34 %
+Potassium 554mg*****12 %
+Serving Size*****100 g
+Calorie*****164
+Total Fat 2.6g*****3 %
+   Saturated Fat 0.3g*****2 %
+Sodium 243mg*****11 %
+Total Carbohydrate 27g*****10 %
+   Dietary Fiber 7.6g*****27 %
+   Sugar 4.8g*****
+Protein 8.9g*****18 %
+Vitamin D 0.00mcg*****0 %
+Calcium 49.00mg*****4 %
+Iron 2.89mg*****16 %
+Potassium 291mg*****6 %
+Serving Size*****100 g
+Calorie*****19
+Total Fat 0.2g*****0 %
+Sodium 113mg*****5 %
+Total Carbohydrate 3.1g*****1 %
+   Dietary Fiber 2.1g*****8 %
+Protein 2.6g*****5 %
+Vitamin D 0.00mcg*****0 %
+Calcium 77.00mg*****6 %
+Iron 1.67mg*****9 %
+Potassium 312mg*****7 %
+Serving Size*****100 g
+Calorie*****299
+Total Fat 6g*****8 %
+   Saturated Fat 1.5g*****8 %
+Sodium 483mg*****21 %
+Total Carbohydrate 53g*****19 %
+   Dietary Fiber 1.9g*****7 %
+   Sugar 0.2g*****
+Protein 7.1g*****14 %
+Vitamin D 0.00mcg*****0 %
+Calcium 11.00mg*****1 %
+Iron 3.21mg*****18 %
+Potassium 74mg*****2 %
+Serving Size*****100 g
+Calorie*****717
+Total Fat 81g*****104 %
+   Saturated Fat 51g*****255 %
+Cholesterol 215mg*****72 %
+Sodium 643mg*****28 %
+Total Carbohydrate 0.1g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.1g*****
+Protein 0.9g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.02mg*****0 %
+Potassium 24mg*****1 %
+Serving Size*****100 g
+Calorie*****106
+Total Fat 6.2g*****8 %
+   Saturated Fat 4g*****20 %
+Cholesterol 22mg*****7 %
+Sodium 70mg*****3 %
+Total Carbohydrate 5.7g*****2 %
+   Dietary Fiber 0g*****0 %
+   Sugar 5.7g*****
+Protein 7.5g*****15 %
+Vitamin D mcg*****N/A
+Calcium 189.00mg*****15 %
+Iron 0.24mg*****1 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****100
+Total Fat 0g*****0 %
+Sodium 33mg*****1 %
+Total Carbohydrate 23g*****8 %
+   Dietary Fiber 3.3g*****12 %
+   Sugar 13g*****
+Protein 3.3g*****7 %
+Vitamin D mcg*****N/A
+Calcium 0.00mg*****0 %
+Iron 0.00mg*****0 %
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****339
+Total Fat 2.5g*****3 %
+   Saturated Fat 0.5g*****2 %
+Sodium 2mg*****0 %
+Total Carbohydrate 71g*****26 %
+Protein 14g*****28 %
+Vitamin D 0.00mcg*****0 %
+Calcium 34.00mg*****3 %
+Iron 3.52mg*****20 %
+Potassium 431mg*****9 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****395
+Total Fat 5.3g*****7 %
+   Saturated Fat 1.2g*****6 %
+Sodium 732mg*****32 %
+Total Carbohydrate 72g*****26 %
+   Dietary Fiber 4.5g*****16 %
+   Sugar 6.2g*****
+Protein 13g*****26 %
+Vitamin D 0.00mcg*****0 %
+Calcium 183.00mg*****14 %
+Iron 4.83mg*****27 %
+Potassium 196mg*****4 %
+Serving Size*****100 g
+Calorie*****387
+Total Fat 0g*****0 %
+Sodium 1mg*****0 %
+Total Carbohydrate 100g*****36 %
+   Dietary Fiber 0g*****0 %
+   Sugar 100g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 1.00mg*****0 %
+Iron 0.05mg*****0 %
+Potassium 2mg*****0 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 10000mg*****435 %
+Total Carbohydrate 0g*****0 %
+Protein 0g*****0 %
+Vitamin D mcg*****N/A
+Calcium 5000.00mg*****385 %
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****59
+Total Fat 0g*****0 %
+Sodium 16mg*****1 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 4.00mg*****0 %
+Iron 0.02mg*****0 %
+Potassium 2mg*****0 %
+Serving Size*****100 g
+Calorie*****360
+Total Fat 1.1g*****1 %
+   Saturated Fat 0.2g*****1 %
+Sodium 1mg*****0 %
+Total Carbohydrate 73g*****27 %
+   Dietary Fiber 3.9g*****14 %
+Protein 13g*****26 %
+Vitamin D 0.00mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 4.36mg*****24 %
+Potassium 186mg*****4 %
+Serving Size*****100 g
+Calorie*****22
+Total Fat 0.2g*****0 %
+Sodium 1mg*****0 %
+Total Carbohydrate 6.9g*****3 %
+   Dietary Fiber 0.3g*****1 %
+   Sugar 2.5g*****
+Protein 0.4g*****1 %
+Vitamin D 0.00mcg*****0 %
+Calcium 6.00mg*****0 %
+Iron 0.08mg*****0 %
+Potassium 103mg*****2 %
+Serving Size*****100 g
+Calorie*****247
+Total Fat 19g*****24 %
+   Saturated Fat 7.3g*****36 %
+Cholesterol 71mg*****24 %
+Sodium 66mg*****3 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 17g*****34 %
+Vitamin D 0.10mcg*****0 %
+Calcium 17.00mg*****1 %
+Iron 1.97mg*****11 %
+Potassium 274mg*****6 %
+Serving Size*****100 g
+Calorie*****40
+Total Fat 0.1g*****0 %
+Sodium 4mg*****0 %
+Total Carbohydrate 9.3g*****3 %
+   Dietary Fiber 1.7g*****6 %
+   Sugar 4.2g*****
+Protein 1.1g*****2 %
+Vitamin D 0.00mcg*****0 %
+Calcium 23.00mg*****2 %
+Iron 0.21mg*****1 %
+Potassium 146mg*****3 %
+Serving Size*****100 g
+Calorie*****143
+Total Fat 0.4g*****1 %
+Total Carbohydrate 28g*****10 %
+   Dietary Fiber 2.7g*****10 %
+Protein 6.6g*****13 %
+Vitamin D mcg*****N/A
+Calcium mg*****N/A
+Iron mg*****N/A
+Potassium mg*****N/A
+Serving Size*****100 g
+Calorie*****143
+Total Fat 9.5g*****12 %
+   Saturated Fat 3.1g*****16 %
+Cholesterol 372mg*****124 %
+Sodium 142mg*****6 %
+Total Carbohydrate 0.7g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0.4g*****
+Protein 13g*****26 %
+Vitamin D 2.00mcg*****10 %
+Calcium 56.00mg*****4 %
+Iron 1.75mg*****10 %
+Potassium 138mg*****3 %
+Serving Size*****100 g
+Calorie*****0
+Total Fat 0g*****0 %
+Sodium 38758mg*****1685 %
+Total Carbohydrate 0g*****0 %
+   Dietary Fiber 0g*****0 %
+   Sugar 0g*****
+Protein 0g*****0 %
+Vitamin D 0.00mcg*****0 %
+Calcium 24.00mg*****2 %
+Iron 0.33mg*****2 %
+Potassium 8mg*****0 %
+Serving Size*****100 g
+Calorie*****251
+Total Fat 3.3g*****4 %
+   Saturated Fat 1.4g*****7 %
+Sodium 20mg*****1 %
+Total Carbohydrate 64g*****23 %
+   Dietary Fiber 25g*****89 %
+   Sugar 0.6g*****
+Protein 10g*****20 %
+Vitamin D 0.00mcg*****0 %
+Calcium 443.00mg*****34 %
+Iron 9.71mg*****54 %
+Potassium 1329mg*****28 %

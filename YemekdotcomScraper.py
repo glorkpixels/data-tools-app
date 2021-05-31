@@ -152,8 +152,10 @@ for i in ingamounts:
 f.close()
 
 
+ingridientList = list(dict.fromkeys(ingnames))
+
 f = open('ingnames.txt', 'a')
-for i in ingnames:
+for i in ingridientList:
     if(i != ""):
         f.write(i +"\n")
     
