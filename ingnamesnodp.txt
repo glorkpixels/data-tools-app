@@ -12,10 +12,10 @@ domates salçasý
 domates püresi
 tereyaðý
 sýcak su
-ýspanak (ayýklanmýþ ve temizlenmiþ)
+ýspanak 
 patates
 zeytinyaðý
-tuz (azaltýp arttýrýlabilir)
+tuz 
 un
 süt
 rendelenmiþ kaþar peyniri
@@ -70,7 +70,7 @@ biber
 kýrmýzý mercimek
 ince bulgur
 biber salçasý
-tereyaðý (oda sýcaklýðýnda bekletilmiþ)
+tereyaðý 
 pudra þekeri
 yumurta beyazý
 sirke
@@ -78,7 +78,7 @@ beyaz peynir
 susam
 oda sýcaklýðýnda tereyaðý
 petibör bisküvi
-kuzu but (arzuya göre dana eti)
+kuzu but 
 orta boy kuru soðan
 orta boy domates
 kaþar peyniri
@@ -87,7 +87,7 @@ taze çekilmiþ tane karabiber
 tavuk budu
 defne yapraðý
 tel þehriye
-nane (arzuya göre)
+nane 
 kuþbaþý tavuk göðsü
 tane karabiber
 soðuk süt
@@ -137,7 +137,7 @@ yulaf sütü
 tarçýn
 cherry domates
 biberiye
-maydanoz (arzuya göre)
+maydanoz 
 mantar
 krem peynir
 çið süt
@@ -150,7 +150,7 @@ küçük boy karnabahar
 orta boy patates
 kereviz sapý
 sýcak et suyu
-kruton (fýrýnlanmýþ ekmek küpleri)
+kruton 
 olgun muz
 ceviz içi
 yer fýstýðý ezmesi
@@ -170,11 +170,11 @@ közlenmiþ kýrmýzý biber
 balsamik sirke
 toz badem
 labne
-bitter çikolata (en az yüzde 70 kakao içeren)
+bitter çikolata 
 salatalýk
 nane
 zencefil
-lime (yeþil limon)
+lime 
 karbonat
 bebek patates
 haþlanmýþ tavuk göðsü
@@ -204,7 +204,7 @@ dolmalýk fýstýk
 parmesan peyniri
 balzamik sirke
 tuz-karabiber
-vanilya özütü (arzuya göre)
+vanilya özütü 
 dut kurusu
 çið fýndýk
 yumurta aký
@@ -219,7 +219,7 @@ ayýklanmýþ enginar
 taze sýkýlmýþ limon suyu
 buðday
 nohut
-karabiber (arzuya göre)
+karabiber 
 yumurt sarýsý
 iri çekilmiþ karabiber
 bulgur
@@ -241,8 +241,8 @@ toz acý biber
 kuzu paça
 domates konservesi
 orta boy havuç
-zeytinyaðý (arzuya göre tereyaðý)
-dereotu (arzuya göre)
+zeytinyaðý 
+dereotu 
 krema
 doðranmýþ maydanoz
 az yaðlý kýyma
@@ -255,26 +255,26 @@ acý biber salçasý
 maydanoz sapý
 kýrmýzý pul biber
 soðuk su
-bal kabaðý (iri dilim)
+bal kabaðý 
 et suyu
 tarhun otu
 etli kýrmýzý biber
 kaya tuzu
-un (azar azar eklenecek)
+un 
 dondurulmuþ mantý
 haþlanmýþ buðday
 haþlanmýþ yeþil mercimek
 et suyu veya tavuk suyu
 orta boy beyaz lahana
-sýcak tavuk suyu (ya da sýcak içme suyu)
+sýcak tavuk suyu 
 dana eti
 kurutulmuþ çiçek bamya
-su (et suyunu hazýrlamak ve çorbanýn yapýmýnda kul
-mantý (önceden hazýrlanmýþ taze mantý)
-sebze suyu (veya normal su)
+su 
+mantý 
+sebze suyu 
 orta boy kýrmýzý biber
 orta boy yeþil biber
-ekmek (tercihen baget ekmeði)
+ekmek 
 rendelenmiþ eski kaþar peyniri
 küçük boy havuç
 karalahana
@@ -284,16 +284,16 @@ mýsýr unu
 semizotu
 orta boy soðan
 pilavlýk bulgur
-sumak ekþisi (yoksa nar ekþisi)
-tuz (arzuya göre)
+sumak ekþisi 
+tuz 
 rendelenmiþ domates
-kýyma (az yaðlý)
-sýcak et suyu (tavuk suyu)
-eriþte (ev yapýmý kesme makarna ya da tel þehriye)
-sýcak tavuk suyu (arzuya göre et suyu)
-pul biber (arzuya göre)
+kýyma 
+sýcak et suyu 
+eriþte 
+sýcak tavuk suyu 
+pul biber 
 kuþkonmaz
-kýrmýzý þarap (arzuya göre)
+kýrmýzý þarap 
 baget ekmek
 gruyere ya da emmental peyniri
 pazý yapraðý
@@ -301,8 +301,8 @@ kayýsý
 büyük boy patlýcan
 bayat ekmek
 sumak
-süzme yoðurt (arzuya göre)
-yaðsýz beyaz peynir (ya da lor peyniri)
+süzme yoðurt 
+yaðsýz beyaz peynir 
 ýlýk süt
 tuzsuz beyaz peynir
 susam ve çörek otu karýþýmý
@@ -316,10 +316,10 @@ yenibahar
 kurutulmuþ dana baðýrsaðý
 oda sýcaklýðýnda margarin
 instant maya
-yumurta (1 yumurta sarýsý ayrýlacak)
+yumurta 
 çörek otu
 þeker
-ayçiçek yaðý (arzuya göre zeytinyaðý)
+ayçiçek yaðý 
 ekmek
 maden suyu
 ufalanmýþ beyaz peynir
@@ -327,7 +327,7 @@ mihaliç peyniri
 günlük yufka
 pratik macar salam
 eritilmiþ tereyaðý
-çörek otu (arzuya göre susam)
+çörek otu 
 ince kýyýlmýþ maydanoz
 üzüm sirkesi
 ekmek kýrýntýsý
@@ -353,7 +353,7 @@ kiþniþ tozu
 hardal tozu
 pýrasa
 kereviz yapraðý
-kiraz (çekirdekleri ayýklanmýþ)
+kiraz 
 milföy hamuru
 ezilmiþ haþhaþ
 ýspanak
@@ -374,10 +374,10 @@ maya
 tost ekmeði
 tatlý yeþil sivri biber
 siyah zeytin
-tereyaðý (oda ýsýsýnda bekletilmiþ)
+tereyaðý 
 kolot peyniri
 kaynar su
-inek sütü (tam yaðlý)
+inek sütü 
 vanilya çubuðu
 dövülmüþ limon tuzu
 trabzon peyniri
@@ -387,10 +387,10 @@ yaðsýz kýyma
 tel peyniri
 bezelye
 taze fasulye
-orta boy domates (etli ve sulu)
+orta boy domates 
 taze barbunya
 büyük boy patates
-taze sýkýlmýþ limon suyu (arzuya göre)
+taze sýkýlmýþ limon suyu 
 bamya
 asma yapraðý
 kuþ üzümü
@@ -402,16 +402,16 @@ girit kabaðý
 sarý biber
 kabak çiçeði
 orta boy dolmalýk biber
-orta boy domates (üzerlerini kapatmak için)
+orta boy domates 
 barbunya
-pýrasa (ayýklanmýþ, temizlenmiþ)
+pýrasa 
 portakal suyu
 kereviz
 limon kabuðu
 haþlanmýþ yumurta
 brüksel lahanasý
 yer fýstýðý
-enginar (taze, çiçek enginar)
+enginar 
 orta boy limon
 rendelenmiþ parmesan peyniri
 ayýklanmýþ þevketi bostan
@@ -421,8 +421,8 @@ baldo pirinç
 tuzlu yoðurt
 fýrýnlanmýþ sarýmsak
 dolmalýk biber
-çandýr fasulyesi (ya da küçük taneli kuru fasulye)
-viþne (çekirdekleri çýkartýlmýþ)
+çandýr fasulyesi 
+viþne 
 viþne suyu
 portakal kabuðu rendesi
 limon kabuðu rendesi
@@ -440,7 +440,7 @@ haþlanmýþ barbunya
 çiçek enginar)
 sarýmsaklý yoðurt
 çam fýstýðý
-tarçýn (arzuya göre)
+tarçýn 
 erik
 kuru incir
 kurutulmuþ biber
@@ -467,12 +467,12 @@ portakal
 zeytinyað
 mandalina
 tatlý kýrmýzý toz biber)
-zerdeçal (arzuya göre)
-yenibahar (arzuya göre)
+zerdeçal 
+yenibahar 
 pazý
 lahana
-kimyon (arzuya göre)
-kekik (arzuya göre)
+kimyon 
+kekik 
 kuru fesleðen
 domates içi
 taze sýkýlmýþ portakal suyu
@@ -494,7 +494,7 @@ sýcak süt
 toz jelatin
 çýrpýlmýþ krema
 kayýsý çekirdeði
-bitter çikolata (yüzde 60 kakao içeren)
+bitter çikolata 
 sütlü çikolata
 pötibör bisküvi
 çikolatalý fýndýklý puding
@@ -508,14 +508,14 @@ hazýr rulo pasta
 kakaolu puding
 antep fýstýðý
 kakaolu bisküvi
-vanilya çubuðu (bölünmüþ ve çekirdekleri sýyrýlmýþ
+vanilya çubuðu 
 ganaj
 rendelenmiþ beyaz çikolata
 halley bisküvi
 kuru meyve parçacýðý
 ince çekilmiþ ceviz içi
 toblerone çikolata
-çubuk vanilya (arzuya göre)
+çubuk vanilya 
 kedidili bisküvi
 fýndýk krokan
 Bitkisel sývý krem þanti
@@ -524,16 +524,16 @@ hindistan cevizi sütü
 ince çekilmiþ antep fýstýðý
 eritilmiþ ve oda ýsýsýnda bekletilmiþ tereyaðý
 rendelenmiþ limon kabuðu
-bitter çikolata ( yüzde 55 kakao oraný içeren)
+bitter çikolata 
 dondurulmuþ böðürtlen
 büyük boy yumurta aký
 þekersiz çið krema
 yoðunlaþtýrýlmýþ süt
 fýndýk içi
-viþne (dondurulmuþ ya da konserve)
+viþne 
 vanilyalý puding
-(tereyaðý ve karýþýk baharatlardan hazýrlanmaktadý
-viþne (dondurulmuþ ürün de kullanabilirsiniz)
+
+viþne 
 damla sakýzlý vanilin
 pasta süsü
 oda sýcaklýðýnda tereyað
@@ -552,11 +552,11 @@ hazýr puding
 kakaolu krem þanti
 çekirdeksiz viþne
 yemek kaþýðý un
-tereyaðý (parlaklýk vermesi için)
-taze viþne (arzuya göre)
+tereyaðý 
+taze viþne 
 esmer þeker
 süt kremasý
-vanilya (ya da 1 çay kaþýðý vanilya özütü)
+vanilya 
 hamsi
 orta boy palamut balýðý
 palamut
@@ -572,7 +572,7 @@ orta boy uskumru
 somon
 kars gravyer peyniri
 barbun balýðý
-toz sebze çeþni (arzuya göre)
+toz sebze çeþni 
 mezgit fileto
 köri
 çupra
@@ -583,11 +583,11 @@ ince çekilmiþ renkli tane karabiber
 iri palamut
 Uskumru
 iri çekilmiþ deniz tuzu
-taze kekik (arzuya göre)
+taze kekik 
 deniz levreði
 kiþniþ tohumu
 ince tuz
-yumurta beyazý (1 çay kaþýðý tuzla çýrpýlacak)
+yumurta beyazý 
 fileto mezgit
 mayonez
 kapari çiçeði
@@ -597,8 +597,8 @@ kiþniþ
 bütün kalamar
 jumbo karides
 kýrmýzý jalapeno biberi
-lemongrass (limon otu) (arzuya göre)
-orta boy limon (kalýn kabuklu)
+lemongrass 
+orta boy limon 
 Kelebek Makarna
 ton balýðý konservesi
 kapari
@@ -606,8 +606,8 @@ fileto somon
 bayat ekmek içi
 rendelenmiþ sarýmsak
 kabuklu midye
-kuþ üzümü (arzuya göre)
-domates salçasý (arzuya göre)
+kuþ üzümü 
+domates salçasý 
 orta boy levrek balýðý
 fileto levrek
 çekirdeksiz yeþil zeytin
@@ -619,7 +619,7 @@ hardal
 ince doðranmýþ dereotu
 ayýklanmýþ karides
 kültür mantarý
-somon fileto (200'er gramlýk)
+somon fileto 
 taze çekilmiþ karabiber
 alabalýk
 levrek fileto
@@ -652,11 +652,11 @@ Sade Eriþte
 Burgu Makarna
 Dirsek Makarna
 haþlanmýþ bezelye
-rendelenmiþ eski kaþar (ya da arzu ettiðiniz yaðlý
-çok küçük doðranmýþ frenk soðaný (arzuya göre yeþi
+rendelenmiþ eski kaþar 
+çok küçük doðranmýþ frenk soðaný 
 Fiyonk Makarna
 üzüm domates
-sarýmsak (ince doðranmýþ)
+sarýmsak 
 chili biberi
 öðütülmüþ top karabiber
 Spagetti Makarna
@@ -667,7 +667,7 @@ Spaghetti Makarna
 Mantý Makarna
 domates rendesi
 Kalem Makarna
-su (makarna haþlama ya da et suyu)
+su 
 makarnanýn haþlama suyu
 dana gerdan
 Fettucine Makarna
@@ -682,15 +682,15 @@ fesleðen yapraðý
 çeçil peyniri
 rendelenmiþ Kolot peyniri
 rendelenmiþ cheddar peyniri
-renkli dolmalýk biber (sarý, kýrmýzý ve yeþil)
+renkli dolmalýk biber 
 kemiksiz tavuk but
 sarýmsak tozu
-orta boy patates (toplamda yaklaþýk 1 kg.)
-semolina (irmik unu)
+orta boy patates 
+semolina 
 ada çayý
 rendelenmiþ tulum peyniri
 ufalanmýþ bayat ekmek kýrýntýsý
-orta yaðlý kýyma (dana-koyun karýþýk)
+orta yaðlý kýyma 
 küçük boy kuru soðan
 haþlanmýþ havuç
 patates püresi
@@ -704,18 +704,18 @@ kuzu döþ kýyma
 dana döþ kýyma
 kemik suyu
 kýl biber
-domates sos (arzuya göre)
+domates sos 
 yaðlý dana kýyma
 galeta
 iri dövülmüþ ceviz içi
-bayat ekmek içi (ince çekilmiþ)
-yoðurt (çýrpýlmýþ)
+bayat ekmek içi 
+yoðurt 
 týrnak pide
 köftelik ince bulgur
 orta yaðlý dana kýyma
-galeta unu (arzuya göre bayat ekmek içi)
+galeta unu 
 ince köftelik bulgur
-ceviz içi (iri çekilmiþ)
+ceviz içi 
 tereyaðý veya margarin
 domates- biber salçasý
 dana nuar kýyma
@@ -725,18 +725,18 @@ bayat ekmek içi ya da galeta unu
 köftelik bulgur
 yaðlý kuzu boþluk eti
 Trabzon ekmeði kýrýntýsý
-karýþýk köfte baharatý (arzuya göre)
+karýþýk köfte baharatý 
 az yaðlý dana kýyma
 yeþil soðan
 toz biber
 kuzu eti
-kýyma (dana döþ ve kuzu eti karýþýk)
-bayat ekmek içi (ýslatýlmýþ)
+kýyma 
+bayat ekmek içi 
 kuru reyhan
 kurutulmuþ reyhan
-toz defne yapraðý (arzuya göre)
+toz defne yapraðý 
 kuzu kol
-kuru reyhan (arzuya göre)
+kuru reyhan 
 dana kuþbaþý eti
 kuþbaþý dana eti
 kuþbaþý kuzu kol
@@ -747,31 +747,31 @@ salçalý su
 dana tranç eti
 dana fýrýnlýk kaburga
 ciðer
-kýyma (arzuya göre dana/kuzu karýþýk)
-kuþbaþý et (kuzu ya da orta yaðlý dana eti)
+kýyma 
+kuþbaþý et 
 dana antrikot
-beyaz ekmek (ya da iki adet lavaþ)
+beyaz ekmek 
 küçük biber turþusu
 kuþbaþý kuzu eti
 orta yaðlý kuzu kýyma
 dana ciðeri
-dana nuar (yaðsýz ve sinirsiz dana but eti)
+dana nuar 
 dana bonfile
 tortilla ekmeði
 acý sos
 kývýrcýk marul
-ekþi krema (ya da süzme yoðurt)
+ekþi krema 
 antrikot ya da but eti
 rendelenmiþ orta boy kuru soðan
 çekilmiþ tane karabiber
 ýslatýlmýþ ekmek içi
 mozzarella peyniri
-dana döþ eti ( yað oranlý)
+dana döþ eti 
 ince çekilmiþ tuz
 kuzu incik
 orta yaðlý kuzu eti
 kuzu ciðeri
-kokoreç (yuvarlak)
+kokoreç 
 kuzu þiþ
 dolmalýk kýrmýzý biber
 soðan suyu
@@ -784,8 +784,8 @@ toz defne yapraðý
 kuzu pirzola
 kontrfile
 mercanköþk
-kýyma (dana döþ etinden çekilmiþ)
-su (arzuya göre et suyu)
+kýyma 
+su 
 koyu kývamlý yoðurt
 ince dövülmüþ biftek
 domates/acý biber salçasý karýþýmý
@@ -794,8 +794,8 @@ pastacýlýk kremasý
 marzipan
 dövülmüþ badem içi
 dövülmüþ kakule
-yaþ maya (21 gram)
-yumurta (oda ýsýsýnda bekletilmiþ)
+yaþ maya 
+yumurta 
 soðuk tereyaðý
 baklavalýk yufka
 tavuk kalça
@@ -807,32 +807,32 @@ kimyon tohumu
 toz tarçýn
 pirinç unu
 gül suyu
-yoðurt (arzuya göre)
+yoðurt 
 yaðlý tavuk eti
 büyük boy yumurta
-ceviz içi (ince çekilmiþ)
+ceviz içi 
 Nutella
 fýndýk kremasý
 dövülmüþ fýndýk
-nohut (bir gece önceden ýslatýlmýþ)
-kiþniþ (arzuya göre)
+nohut 
+kiþniþ 
 çið kaju fýstýðý
 goji berry
 günkurusu kayýsý
 kurutulmuþ erik
-beyaz lahana (1/2 adet küçük boy lahana)
-beyaz çikolata (arzuya göre)
+beyaz lahana 
+beyaz çikolata 
 bitter kuvertür çikolata
 sütlü kuvertür çikolata
 beyaz kuvertür çikolata
-sývý yað (ya da zeytinyaðý)
+sývý yað 
 rendelenmiþ portakal kabuðu
-fileto tavuk göðsü (200'er gramlýk)
+fileto tavuk göðsü 
 orta boy kapya biber
 orta boy yeþil dolmalýk biber
 süt kaymaðý
 küçük boy yumurta
-tereyaðý (yaklaþýk 2 yemek kaþýðý)
+tereyaðý 
 mýsýr irmiði
 rendelenmiþ mozzarella peyniri
 taze fesleðen yapraðý
@@ -840,9 +840,9 @@ yoðurt kaymaðý
 tavuk
 ramen
 susam yaðý
-taze soðan (yeþil kýsýmlarý kullanýlacak)
+taze soðan 
 soya filizi
-vanilya özütü (ya da ayný oranda vanilya þekeri)
+vanilya özütü 
 küçük boy patates
 risotto pirinci
 tuzsuz lor peyniri
@@ -868,17 +868,17 @@ iri çekilmiþ antep fýstýðý
 pirinç sirkesi
 taze zencefil
 kestane mantarý
-niþasta (mýsýr veya buðday niþastasý)
+niþasta 
 bebe bisküvisi
 çikolata
 basmati veya yasmin pirinci
-safran (ya da aspir)
+safran 
 ezilmiþ kakule
-yaþ maya (42 gram)
+yaþ maya 
 kuskus
 tavuk füme
 margarin veya tuzsuz tereyaðý
 pirinç yufkasý
 orta boy kýrmýzý dolmalýk biber
 soya sos
-oyster (istiridye sos)
+oyster 

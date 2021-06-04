@@ -153,15 +153,12 @@ for index, ingridient in enumerate(engIngList):
                 for i in range(pointer):
                     Temp += SplitLeft[i] + " "
                 
-                data +=  " , "+ '"' +Temp.lstrip()+'"'+ ": " + SplitLeft[pointer] + " , "
                 datalist.append(Temp.strip())
                 datalistpair.append(SplitLeft[pointer])
                 if right == "":
-                    data += '"Daily '+ Temp.lstrip()+ '"' +": " + "NaN" 
                     datalist.append("Daily " + Temp.strip() )
                     datalistpair.append("NaN")
                 else:
-                    data += '"Daily '+ Temp.lstrip()+ '"' +": " + right 
                     datalist.append("Daily " + Temp.strip() )
                     datalistpair.append(right)
     

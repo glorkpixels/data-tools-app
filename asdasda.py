@@ -1,6 +1,9 @@
 import requests
-from firebase import firebase
+import http.client
 
+conn = http.client.HTTPSConnection("calorieninjas.p.rapidapi.com")
+from firebase import firebase
+import time
 from firebase.firebase import FirebaseApplication
 from firebase.firebase import FirebaseAuthentication
 
@@ -19,17 +22,18 @@ with open('ingnamesenglish.txt') as f:
         
         
 for index, ingridient in enumerate(engIngList):       
-       
-        jeez = ingridient + " " + "100 grams"
-        jeez.strip("\n")
-        querystring = {"ingr": jeez }
-        print(querystring)
-
+        
         headers = {
             'x-rapidapi-key': "15e853010amsh0372cddaeae2a66p1e3624jsnb06e2cef612f",
-            'x-rapidapi-host': "edamam-edamam-nutrition-analysis.p.rapidapi.com"
+            'x-rapidapi-host': "calorieninjas.p.rapidapi.com"
             }
 
-        response = requests.request("GET", url, headers=headers, params=querystring)
+        
+        ing = "/v1/nutrition?query=" + ingridient.replace("\n", "")
+        ing = ing.replace(" ", "%20")
+        conn.request("GET", ing, headers=headers)
 
-        print(response.text)
+        res = conn.getresponse()
+        data = res.read()
+
+        print(data.decode("utf-8"))
