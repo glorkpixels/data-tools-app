@@ -15,8 +15,8 @@ sýcak su
 ýspanak (ayýklanmýþ ve temizlenmiþ)
 patates
 zeytinyaðý
-tuz (azaltýp arttýrýlabilir)
-un
+tuz 
+flour
 süt
 rendelenmiþ kaþar peyniri
 orta yaðlý kýyma
@@ -260,7 +260,7 @@ et suyu
 tarhun otu
 etli kýrmýzý biber
 kaya tuzu
-un (azar azar eklenecek)
+un
 dondurulmuþ mantý
 haþlanmýþ buðday
 haþlanmýþ yeþil mercimek
